@@ -8,3 +8,5 @@ javascript:(function () {var a = document.createElement('script');a.src = 'https
 
 
 after you do this hit save, open a new tab,and click on the bookmark to turn off the extentions.
+
+I did not make this, I just wanted it to be easier to find and do.
